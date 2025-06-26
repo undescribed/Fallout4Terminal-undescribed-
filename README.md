@@ -2,6 +2,8 @@
  
 <img src="https://github.com/undescribed/Fallout4Terminal-undescribed-/blob/main/public/img/Fallout4Discord-undescribed.png?raw=true">
 
+<h2>Notice<h2>
+I have not tested any of the other assets besides the main theme.css file. Theme only tested on Vencord.
 <h2>Credits</h2>
 
 All credits go to  b4t3s, i kinda feel like mine is a cheap ripoff lol.
