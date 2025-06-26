@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://B4T3S.github.io/Fallout4TerminalTheme/img/FalloutTerminal.png">
+<img src="https://github.com/undescribed/Fallout4Terminal-undescribed-/blob/main/public/img/Fallout4Discord-undescribed.png?raw=true">
 
 <h2>Credits</h2>
 
