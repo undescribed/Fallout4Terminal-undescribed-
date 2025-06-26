@@ -1,5 +1,13 @@
 <div align="center">
+<h2>Links to b4t3s's paypal, discord, ko-fi, and patreon. </h2>
  
+ <a href="https://www.paypal.com/paypalme/floriancegledi" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></img></a>
+  <a href="https://www.patreon.com/bates" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></img></a>
+  <a href="https://ko-fi.com/b4t3s" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></img></a>
+  <br>
+  <a href="https://discord.gg/6qd3SkP6Ch" target="_blank"><img src="https://img.shields.io/discord/931137677695266856?label=Discord&logo=Discord&style=for-the-badge"></img></a>
+</div>
+
 <img src="https://github.com/undescribed/Fallout4Terminal-undescribed-/blob/main/public/img/Fallout4Discord-undescribed.png?raw=true">
 
 <h2>Notice<h2>
