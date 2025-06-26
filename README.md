@@ -8,6 +8,11 @@
 <h1 align="center">Fallout 4 Terminal Theme</h1>
 <img src="https://B4T3S.github.io/Fallout4TerminalTheme/img/FalloutTerminal.png">
 
+<h2>Credits</h2>
+
+All credits go to  b4t3s, i kinda feel like mine is a cheap ripoff lol.
+my version removes the crt effect and uses the github font
+
 <h2>About</h2>
 
 This is my second discord theme!
