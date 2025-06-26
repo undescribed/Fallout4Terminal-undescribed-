@@ -11,11 +11,10 @@
  * @invite 6qd3SkP6Ch
 */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css');
+@import url('https://raw.githubusercontent.com/undescribed/Fallout4Terminal-undescribed-/refs/heads/main/public/css/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
-/* ^ This is the CRT effect. ^ If you don't like it, remove or comment out this line! */
+
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root,
