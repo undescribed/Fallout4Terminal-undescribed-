@@ -1,4 +1,5 @@
 <div align="center">
+ <h2> These links do not belong to me, this is if you would like to support b4t3s.</h2>
   <a href="https://www.paypal.com/paypalme/floriancegledi" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></img></a>
   <a href="https://www.patreon.com/bates" target="_blank"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></img></a>
   <a href="https://ko-fi.com/b4t3s" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></img></a>
